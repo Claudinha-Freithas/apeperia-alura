@@ -1,2 +1,2 @@
 # apeperia-alura
-Projeto em que se destaca o uso de acessibilidade para pessoas de todo e qualquer tipo de deficiência, seja ela auditiva, física, visual ou para pessoas com o espectro autista
+Neste projeto, a ênfase está no comprometimento com a acessibilidade, abrangendo diversas formas de deficiência, como auditiva, física, visual e considerando as necessidades de pessoas no espectro autista. O objetivo é criar uma experiência inclusiva, proporcionando acessibilidade a todos os usuários, independentemente de suas limitações.
